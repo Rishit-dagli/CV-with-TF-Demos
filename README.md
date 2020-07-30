@@ -7,3 +7,5 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FDesign-and-Code-2020)
 
 My session at [Design and Code](https://twitter.com/design_n_code) about **Deep learning, Computer Vision with TensorFLow**, 1 August 2020.
+
+![](images/d_and_c.jpeg)
