@@ -8,4 +8,6 @@
 
 My session at [Design and Code](https://twitter.com/design_n_code) about **Deep learning, Computer Vision with TensorFLow**, 1 August 2020.
 
+## [Tweet](https://twitter.com/design_n_code/status/1288506871494500353?s=20)
+
 ![](images/d_and_c.jpeg)
