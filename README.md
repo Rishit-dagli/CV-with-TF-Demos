@@ -51,7 +51,7 @@ Thanks to the awesome team that made this possible
 
 ## [Registration Link](https://bit.ly/cv-with-tf)
 
-## [LiveStream URL](https://www.youtube.com/watch?v=8c7i5_A9kxA)
+## [Recording](https://www.youtube.com/watch?v=8c7i5_A9kxA)
 
 ![](images/d_and_c.jpeg)
 
