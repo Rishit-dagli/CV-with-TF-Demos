@@ -1,4 +1,4 @@
-# Design-and-Code-2020
+# Design-and-Code-2020 <img src="https://pbs.twimg.com/profile_images/1103986739285237761/4jioEOB8_400x400.jpg" height=50>
 
 [![](https://img.shields.io/badge/Rishit-Dagli-brightgreen.svg?colorB=00ff00)](https://www.rishit.tech)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
