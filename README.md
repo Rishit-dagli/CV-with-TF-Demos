@@ -12,4 +12,6 @@ My session at [Design and Code](https://twitter.com/design_n_code) about **Deep 
 
 ## [Registration Link](https://bit.ly/cv-with-tf)
 
+## [LiveStream URL](https://www.youtube.com/watch?v=8c7i5_A9kxA)
+
 ![](images/d_and_c.jpeg)
