@@ -7,4 +7,17 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FDesign-and-Code-2020)
 
 This repo contains supporting material for my talk about the very basics of Computer Vision with TensorFlow by example. You can check out [talks.md](talks.md) to know more about 
-the talks I have given about this.
+the talks I have given about this. Please consider giving this repo a :star: if this is helpful to you!
+
+## About the Notebooks
+
+### [`fashion-mnist.ipynb`](fashion-mnist.ipynb)
+
+In this tutorial you will see how you can create a simple CNN to create an image classification algorithm with the Fashion MNIST Dataset. We will be using Keras, a high level 
+abstraction so you can very easily get started on making your first CNN.
+
+### [`cats-vs-dogs.ipynb`](cats-vs-dogs.ipynb)
+
+In this notebook you will create your first Computer Vision based Deep Learning model to classify between cats and dogs with TensorFlow. We will use the dogs-vs-cats dataset which 
+is open-sourced. We will create a simple 2 class binary CNN to do so. You wil see all the aspects of training such a model, data preprocressing, the actual model, reducing 
+overfitting and finally making inferences.
