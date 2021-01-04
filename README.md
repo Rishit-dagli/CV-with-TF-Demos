@@ -9,7 +9,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli)
 
 This repo contains supporting material for my talk about the very basics of Computer Vision with TensorFlow by example. You can check out [talks.md](talks.md) to know more about 
-the talks I have given about this. Please consider giving this repo a :star: if this is helpful to you!
+the talks I have given about this and also take a look at the slides 
+<a href="http://bit.ly/cv-tf-slides"><img src="images/speakerdeck_button.svg" height="20"></a>. Please consider giving this repo a :star: if this is helpful to you!
 
 ## About the Notebooks
 
