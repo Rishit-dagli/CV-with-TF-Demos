@@ -1,13 +1,12 @@
-# CV with TensorFlow Demos
+# CV with TensorFlow Demos [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FML-with-Android-11)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FCV-with-TF-Demos)
 
 [![](https://img.shields.io/badge/Rishit-Dagli-brightgreen.svg?colorB=00ff00)](https://www.rishit.tech)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/CV-with-TF-Demos/HEAD)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishit-dagli/CV-with-TF-Demos)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FDesign-and-Code-2020)
+[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli)
 
 This repo contains supporting material for my talk about the very basics of Computer Vision with TensorFlow by example. You can check out [talks.md](talks.md) to know more about 
 the talks I have given about this. Please consider giving this repo a :star: if this is helpful to you!
