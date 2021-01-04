@@ -16,10 +16,16 @@ the talks I have given about this. Please consider giving this repo a :star: if 
 
 ### [`fashion-mnist.ipynb`](fashion-mnist.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishit-dagli/Design-and-Code-2020/blob/master/fashion-mnist.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/Design-and-Code-2020/HEAD?filepath=fashion-mnist.ipynb)
+
 In this tutorial you will see how you can create a simple CNN to create an image classification algorithm with the Fashion MNIST Dataset. We will be using Keras, a high level 
 abstraction so you can very easily get started on making your first CNN.
 
 ### [`cats-vs-dogs.ipynb`](cats-vs-dogs.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rishit-dagli/Design-and-Code-2020/blob/master/cats-vs-dogs.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rishit-dagli/Design-and-Code-2020/HEAD?filepath=cats-vs-dogs.ipynb)
 
 In this notebook you will create your first Computer Vision based Deep Learning model to classify between cats and dogs with TensorFlow. We will use the dogs-vs-cats dataset which 
 is open-sourced. We will create a simple 2 class binary CNN to do so. You wil see all the aspects of training such a model, data preprocressing, the actual model, reducing 
